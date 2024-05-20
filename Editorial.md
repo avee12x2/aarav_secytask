@@ -21,4 +21,4 @@ Also, note that we first allocate rooms not knowing which would be converted to 
 Thus, by soome elaborate algorithmic techniques and manipulation of huge sets of data, we arrive at our answer, the maximum number of people that can be satisfied.
 
 
-**Time Complexity**: <span style="font-size:18px; ">O(log n)</span>
+**Time Complexity**: O(log n)
