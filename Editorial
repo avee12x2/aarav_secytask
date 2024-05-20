@@ -1,0 +1,4 @@
+# Editorial - 
+This problem can be solved based on the greedy algorithm approach.
+We have to find a criteria by which we can start assigning rooms and roommates to the students. For this purpose, 
+first we define a stru
