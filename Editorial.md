@@ -1,5 +1,7 @@
 # Editorial - 
+
 This problem can be solved based on the greedy algorithm approach.
+
 <br>
 We have to find a criteria by which we can start assigning rooms and roommates to the students. For this purpose, first we define a structure Person to store the data regarding all the different data points of a particular person.
 <br>
