@@ -11,7 +11,7 @@ However, as she begins working on the problem of finding the best possible arran
 
 Your task, for a particular wing, is to determine the maximum number of students that can be satisfied by an arrangement.
 
-<h3>Input:</h3>
+Input:
 The first line contains a single integer __t__ (1$\le$t$\le$20) — the number of test cases.
 The first line of each test case contains **n** (2$\le$n$\le$1000) – the number of students in a wing.
 The second line of each test case consists of two integers **x** and **y** – the number of triple and double rooms respectively such that **3x+2y=n**.
