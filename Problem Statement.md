@@ -22,3 +22,21 @@ The third line consists of n space separated integers $a_{i}$ (1 $\le$ $a_{i}$ $
 
 ### Output:
 For each test case, output on a new line, a single integer denoting the maximum number of people you can satisfy.
+
+### Examples:
+#### Imput:
+2
+
+5<br>
+1 1<br
+4 5 1 5 2<br>
+
+13<br>
+3 2<br>
+4 4 4 7 1 5 5 5 3 7 8 2 8<br>
+
+#### Output:
+4<br>
+8
+
+
