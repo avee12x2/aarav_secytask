@@ -1,4 +1,5 @@
-# Editorial - 
+# Editorial
+## Enchanted IIT
 
 This problem can be solved based on the greedy algorithm approach.
 
