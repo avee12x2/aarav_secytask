@@ -24,7 +24,7 @@ The third line consists of n space separated integers $a_{i}$ (1 $\le$ $a_{i}$ $
 For each test case, output on a new line, a single integer denoting the maximum number of people you can satisfy.
 
 ### Examples:
-#### Imput:
+#### Input:
 2<br>
 5<br>
 1 1<br>
@@ -36,5 +36,9 @@ For each test case, output on a new line, a single integer denoting the maximum 
 #### Output:
 4<br>
 8
+
+#### Explaination:
+In the $1^{st}$ test case, the desired arrangement is: (2, 4, 5), (1, 3), where 4 people are satisfied, i.e. all except the $1^{st}$ person.<br>
+In the $2^{nd}$ test case, the desired arrangement is: (1, 5, 6), (3, 9, 4), (8, 11, 13), (2, 12), (7, 10), where all except persons $1^{st}$ , $2^{nd}$ , $4^{th}$, $7^{th}$ and $8^{th}$ are satisfied.
 
 
