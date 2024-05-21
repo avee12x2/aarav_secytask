@@ -38,7 +38,8 @@ For each test case, output on a new line, a single integer denoting the maximum 
 8
 
 #### Explaination:
-In the $1^{st}$ test case, the desired arrangement is: **(2, 4, 5), (1, 3),** where 4 people are satisfied, i.e. all except the $1^{st}$ person.<br>
-In the $2^{nd}$ test case, the desired arrangement is: **(1, 5, 6), (3, 9, 4), (8, 11, 13), (2, 12), (7, 10),** where all except persons $1^{st}$ , $2^{nd}$ , $4^{th}$, $7^{th}$ and $8^{th}$ are satisfied.
+In the $1^{st}$ test case, the desired arrangement is: **(2, 4, 5), (1, 3),** where 4 people are satisfied, i.e. all except the $1^{st}$ student.<br>
+In the $2^{nd}$ test case, the desired arrangement is: **(1, 5, 6), (3, 9, 4), (8, 11, 13), (2, 12), (7, 10),** where all except students $1^{st}$ , $2^{nd}$ , $4^{th}$, $7^{th}$ and $8^{th}$ are satisfied.
 
-
+#### Note:
+There can be more than one arrangements possible which give us the same answer. For example, in test case 1, another arrangement which satisfies 4 students is: **(1, 3, 4), (2, 5),** which just doesn't satisfy the $4^{th}$ student. However, we are not concerned about the arrangemnt in this problem. We just have to find the maximum amount of students that can be satisfied.
