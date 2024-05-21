@@ -18,7 +18,7 @@ The first line of each test case contains **n** (2 $\le$ n $\le$ 1000) – the n
 
 The second line of each test case consists of two integers **x** and **y** – the number of triple and double rooms respectively such that **3x+2y=n**.
 
-The third line consists of n space separated integers $a_{i}$ (1 $\le$ $a_{i}$ $\le$ n) – the roommate preferences of the students where $a_{i}$ denotes the preference of the $i^{th}$ student.
+The third line consists of n space separated integers $a_{i}$ (1 $\le$ $a_{i}$ $\le$ n, $a_{i}$ $\neq$ i) – the roommate preferences of the students where $a_{i}$ denotes the preference of the $i^{th}$ student.
 
 ### Output:
 For each test case, output on a new line, a single integer denoting the maximum number of people you can satisfy.
