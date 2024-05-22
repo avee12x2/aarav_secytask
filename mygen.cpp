@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 {
     registerGen(argc, argv, 1);
     int max_t = atoi(argv[1]);
-    int max_n = atoi(argv[1]);
+    int max_n = atoi(argv[2]);
   //  int max_t = 20;
   //  int max_n = 10000;
     int t = rnd.next(1, max_t);
