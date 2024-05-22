@@ -1,7 +1,7 @@
 # Editorial
 ## Enchanted IIT
 
-This problem can be solved based on the greedy algorithm approach.
+This problem can be solved based on the **Greedy Algorithm** approach.
 
 We have to find a criterion by which we can start assigning rooms and roommates to the students. For this purpose, first we define a structure **Person** to store the data regarding all the different data points of a particular person.
 
